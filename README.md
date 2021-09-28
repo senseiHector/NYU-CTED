@@ -1,7 +1,7 @@
 # NYU-CTED
 Code challenge for NYU CTED Team
 
-This was comleted with basic Javascript and HTML 5
+This was completed with basic Javascript and HTML 5
 
 To run the code simply open the index.html file in a web browser
 
